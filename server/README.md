@@ -1,7 +1,6 @@
-# Take the Red Pill
-Our whizbang server will plug you in to a whole new world!
-
-## Protocol Usage
-
-## Public Server
-You can try us out at ec2-71-208-139-169.compute-1.amazonaws.com port 55312!
+# Server
+Starts a server from the computer with the id: 59898. Contains several commands that are activated from client. 
+Setup() sets up input and output.
+process commands to take in user input constantly until quit, victory, lose, or tie.
+processHit to register the Hit command and designate values.
+checkHand to find player's value.
